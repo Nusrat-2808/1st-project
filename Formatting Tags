@@ -1,0 +1,18 @@
+TYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Hi I am <b>Sayeema</b>!<br>
+    I am <mark>16 years</mark> old.<br>
+    My favourite subject is <i><strong>Mathematics</strong></i> and <i><strong>Science</strong></i><br>
+    <em>I like Reading books in my leisure time.</em><br>
+    a<sup>3</sup>+b<sup>3</sup>=(a-b)(a<sup>2</sup>+ab+b<sup>2</sup>)<br>
+    CaCO<sub>3</sub><br>
+    <del>Everyone can be perfect with practice.</del><br>
+    <q>"Try to be always positive in life, try to be like Proton." </q>
+</body>
+</html>
