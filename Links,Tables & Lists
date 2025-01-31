@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://www.codingal.com/bn-bd/student/dashboard/">"View my Id "</a>
+    Benefits of Yoga
+    <ul>
+       <li>Stress relief</li>
+       <li>Improve Fitness</li>
+       <li>Helps in anger management</li> 
+    </ul>
+    <ol>
+        <li>Stress relief</li>
+        <li>Improve Fitness</li>
+        <li>Helps in anger management</li> 
+    </ol>
+    <table border="5">
+        <tr>
+            <th>Contributions/Findings</th>
+            <th>Name of scientists</th>
+        </tr>
+        <tr>
+            <td>Triads</td>
+            <td>J.W Dobereiner</td>
+        </tr>
+        <tr>
+            <td>Law of Octaves</td>
+            <td>Newlands</td>
+        </tr>
+        <tr>
+            <td>Atomic mass/Atomic volume graph</td>
+            <td>Julius Lothar meyer</td>
+        </tr><tr>
+            <td>Atomic Theory</td>
+            <td>John Dalton</td>
+        </tr>
+    </table>
+</body>
+</html>
