@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="vin 2.jpg" height="300" width="500">
+    <audio controls src="Poem.mpeg"></audio>
+    <audio controls>
+        <source src="Poem.mpeg" type="audio/mpeg">
+    </audio>
+    <video height="500px" width="500px" controls src="happiness.mp4" autoplay poster="vin 2.jpg"></video>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/MhXCj8E9CZU?si=aYh9VsKRxi1zalrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>
