@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Global Warming: A curse to the world</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="">Causes</a></li>
+                <li><a href="">Effects</a></li>
+                <li><a href="">Preventive Measures</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <article>
+                <h1>Global Warming</h1>
+                    <p>Welcome to our platform dedicated to raising awareness and driving action against the pressing issue of global warming in Bangladesh. As a nation of breathtaking landscapes, vibrant cultures, and resilient communities, Bangladesh stands at the forefront of the battle against climate change. From the lush Sundarbans to the bustling cities, every corner of our country is feeling the impact of rising temperatures and unpredictable weather patterns.</p>
+                    <p>Join us as we explore the science behind global warming, its effects on our beloved nation, and the innovative solutions being championed by our people. Together, we can make a difference and ensure a sustainable future for generations to come.</p>    
+                    <p>Let's protect our paradise. Let's fight global warming.</p>
+                </article>    
+        </section>
+        <figure>
+            <img src="https://th.bing.com/th/id/R.c1ef07b34f89422fe045e29a5d165545?rik=CMpPSue6YvTtgQ&pid=ImgRaw&r=0" alt="Global Warming" height="300px" width="700px">
+            <figcaption>Symbolical Consequence of Global Warming</figcaption>
+        </figure>
+    </main>
+    <footer>
+        <p>Contanct info: <br>
+           <b> Phone no:</b>017*******9
+        </p>
+    </footer>
+</body>
+</html>
