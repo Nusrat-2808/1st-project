@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+      #b{color:blueviolet;}
+      .characteristics{
+        color: brown;
+      }  
+      *{
+        color: cadetblue;
+        background-color: black;
+      }
+    </style>
+</head>
+<body>
+   <p id="a"> Dhaka, city and capital of Bangladesh. </p>
+    <p id="b">It is located just north of the Buriganga River, a channel of the Dhaleswari River, in the south-central part of the country.</p>
+    <p class="characteristics">Dhaka is Bangladesh’s most populous city and is one of the largest metropolises in South Asia. Pop.
+    (2001) city, 5,333,571; metro. area, 9,672,763; (2011) city, 7,033,075; metro.</p>
+    <p class="characteristics">Area- 14,543,124.</p>
+</body>
+</html>
