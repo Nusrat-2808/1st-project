@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    color: rgb(79, 104, 36);
+}
+h1{
+    color: chocolate;
+}
+li:hover{
+    color: crimson;
+    background-color: plum;
+    font-weight: bold;
+}
+ul>li::before{
+    content:"📖" ;
+}
+ul>li::after{
+    content: "💡";
+}
+li:nth-child(1){
+    background-color: rgb(225, 207, 135);
+}
+a:hover{
+    color: blueviolet;
+}
+p::first-letter{
+    font-size: 200%;
+    color: darkmagenta;
+}
