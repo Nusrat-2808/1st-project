@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-size: 20px;
+        }
+        #Box1{
+            background-color: blueviolet;
+            color: burlywood;
+            padding: 20px 30px 20px 30px;
+            border: 7px solid salmon;
+            margin: 20px;
+        }
+        #Box2{
+            background-color: rgb(163, 70, 3);
+            color: darkslategray;
+            padding: 50px;
+            border: 15px solid darkslategray;
+            margin: 40px;
+        }
+        img#left{
+            float: left;
+        }
+        img#right{
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <p id="Box1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur omnis reprehenderit tempora non ipsum accusamus, numquam neque iusto quis voluptatibus odio nostrum dolorem magni doloremque esse reiciendis perspiciatis accusantium atque error eos ipsam eveniet nisi minus ipsa. Cupiditate, tenetur. Voluptatem sint ducimus cumque corrupti labore a nesciunt architecto quidem eum.</p>
+    <p><img id="left" src="leaf.avif" alt="" height="100px"></p><br>
+    <p><img id="right" src="leaf.avif" alt="" height="100px"></p><br><br><br>
+    <p id="Box2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum eos eveniet fugiat inventore earum nemo nostrum laboriosam cum ratione magni. Officia ipsam illum, veritatis eligendi molestiae unde quisquam et, neque blanditiis error dolorem eum illo tenetur ratione! Cumque, saepe necessitatibus dicta animi eligendi dolore possimus praesentium optio impedit nesciunt eius.</p>
+</body>
+</html>
