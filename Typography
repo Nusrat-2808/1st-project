@@ -38,7 +38,15 @@
  <input type="color">
  <p>Use the <mark>mark</mark> tag to <mark>highlight</mark> any part.</p>
  <h1>Code Snippets</h1><p>Html elements: <code>span</code>, <code>section</code>, <code>div</code> shows separate sections./p>
+   <div class="container"><h1>Headings list</h1>
     <h1 class="display-1">Codingal</h1>
     <h1 class="display-2">Codingal</h1>
+    <h1 class="display-3">Codingal</h1>
+    <h1 class="display-4">Codingal</h1></div>
+    <div class="container"><small class="text-muted">Hello Codingal</small></div>
+    <dl>
+        <dt>COFFEE</dt>
+        <dd>WHITE HOT DRINK</dd>
+    </dl>
 </body>
 </html>
